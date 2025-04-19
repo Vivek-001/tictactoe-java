@@ -1,5 +1,5 @@
-# tictactoe-java
-Designing a Tic Tac Toe Game
+
+# Designing a Tic Tac Toe Game
 **Requirements**
 The Tic-Tac-Toe game should be played on a 3x3 grid.
 Two players take turns marking their symbols (X or O) on the grid.
