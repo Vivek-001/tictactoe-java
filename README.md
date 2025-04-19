@@ -2,7 +2,7 @@
 ## Designing a Tic Tac Toe Game
 **Requirements**
 
-1. The Tic-Tac-Toe game should be played on a 3x3 grid, or can be on any order as user wish.
+1. The **Tic-Tac-Toe** game should be played on a 3x3 grid, or can be on any order as the user wishes.
 2. Two players mark their symbols (X or O) on the grid.
 3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 4. If all the cells on the grid are filled and no player has won, the game ends in a draw.
@@ -12,8 +12,8 @@
 
 **Classes, Interfaces, and Enumerations**
 
-1. The **PlayingPiece** class represents the PieceType for the class. PieceType is a Enumerations.
+1. The **PlayingPiece** class represents the PieceType for the class. PieceType is an enumeration.
 2. The **Player** class represents a player in the game, with a name and a symbol (X or O).
 2. The **Board** class represents the game board, which is a 3x3 grid or any order as per the user's wish. It provides methods to make moves, check for a winner, and check if the board is full.
-3. The **Main** class is the entry point of the application and creates instances of TicTacToeGame class.
+3. The **Main** class is the entry point of the application and creates instances of the TicTacToeGame class.
 4. The **TicTacTaoGame** class initializes the game and starts the game. It manages the game flow and player interactions. It handles player turns, validates moves, and determines the winner or a draw.
