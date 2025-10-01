@@ -2,7 +2,7 @@
 ## Designing a Tic Tac Toe Game
 **Requirements**
 
-1. The **Tic-Tac-Toe** game should be played on a 3x3 grid, or can be on any order as the user wishes.
+1. The **Tic-Tac-Toe** game should be played  on a 3x3 grid, or can be on any order as the user wishes.
 2. Two players mark their symbols (X or O) on the grid.
 3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 4. If all the cells on the grid are filled and no player has won, the game ends in a draw.
